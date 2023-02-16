@@ -1,2 +1,2 @@
 # Hi-Python-
-Python'a giriş yapıp adım adım ilerleyeceğim.
+Step by step in to Python
